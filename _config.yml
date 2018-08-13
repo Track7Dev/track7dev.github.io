@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Brandon Fizer
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Engineer From Fayetteville, NC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media.licdn.com/dms/image/C4E03AQF7cTFsGalcFQ/profile-displayphoto-shrink_200_200/0?e=1539820800&v=beta&t=wXdTVUerUMeunl7QyidEUubhdHnwgdl2hIJLh1SWJYE
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: track7dev
   instagram:
-  linkedin:
+  linkedin: brandon-fizer
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
