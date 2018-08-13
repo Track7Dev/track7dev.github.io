@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building the Engine Inside the Engineer
+title: The Engine Inside the Engineer
 ---
 
 (BLANK)
