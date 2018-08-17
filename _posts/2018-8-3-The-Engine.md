@@ -11,7 +11,7 @@ What do you have to fall back on?
 
 These words embedded into me as a child, at first being perceived as a lack of support, only to find it to be just as far from the truth. 
 
-As years went by those words dug deeper into my brain. What do I have to fall back on? What if that doesn't work out, then what? Am I even destined to do this?. All these questions lingered throughout my brain into my early 20's. By this time I was a 'Jack of all trades', the go to guy. Anything you needed done or fixed  wether I knew how or not, I could get it done. I took pride in this, finally I had something to fall back on, quite a few things actually. I have built myself up to always be an asset to anyone for anything. I had become a Tattoo Artist, an inspiring musician and producer, a PHP web developer, a mechanic, a Graphic Designer, a computer technician, and anything else i needed to learn just to get the job done. I felt i had learned so much. I was indulging myself with so much information, I had felt accomplished, I have succeeded. 
+As years went by those words dug deeper into my brain. What do I have to fall back on? What if that doesn't work out, then what? Am I even destined to do this?. All these questions lingered throughout my brain into my early 20's. By this time I was a 'Jack of all trades', the go to guy. Anything you needed done or fixed  whether I knew how or not, I could get it done. I took pride in this, finally I had something to fall back on, quite a few things actually. I have built myself up to always be an asset to anyone for anything. I had become a Tattoo Artist, an inspiring musician and producer, a PHP web developer, a mechanic, a Graphic Designer, a computer technician, and anything else i needed to learn just to get the job done. I felt i had learned so much. I was indulging myself with so much information, I had felt accomplished, I have succeeded. 
 
 Perspective in the form of the mind, is by far the greatest asset and downfall to life itself. 
 
@@ -50,12 +50,39 @@ I walked in, ask for the owner and unbeknownst to me he was behind me the entire
 The tattoo... A Military Pinup.
 Mentally I started freaking out. This is the tattoo that will determine if i will begin a **New Career** as a Professional Tattoo Artist. So I began to think to myself, I can freak out and mess up this tattoo, or do the best that I can with **Confidence**. I'd rather lose the opportunity for a job because I wasn't qualified at all not because I didn't seem qualified at that time.
 
-###### Impostor Syndrome
+###### *Impostor Syndrome*
 
 So I did the next best thing, I had fun with it. Towards the end of the tattoo, the owner walks in, leans over the tattoo... silence struck the room.
 
 ## "See You Tomorrow"
 
-Finally.. I have done it. I have successfully found myself a **Career** at the age of 23, two before the goal i previously set. Even-though the road has only began, i couldn't help but to feel true accomplishment. 
+Finally.. I have done it. I have successfully found myself a **Career** at the age of 23, two years before the goal i previously set. Even-though the road has only began, i couldn't help but to feel true accomplishment. 
 
-# [The Engine Inside the Engineer: To Be Continued]
+A few days into my new career, enthusiasm sky high, nothing could go wrong. That was until a tattoo came in that was a little beyond my comfort zone. Just like that I was back in this same feeling of despair, but this time I have no choice. This is what I signed up for, This is what i was hired for, I have an obligation to work to the fullest of my ability so only thing to do now is work. To my surprise the tattoo that i believe to be far beyond my skill-set actually turned out pretty good, it wasn't perfect but it set the act in motion. Maybe i am better than I think, and maybe I could be better. So i grinded, learned everything thing I could about tattooing professionally, some by technique others by experience.
+
+A couple years pass, by now I have established myself in the tattoo industry, quality of work were up to par, i have learned my craft, And i was ready for another. I wanted to work with programming again, the shop was need of a website, what better why to get practice in. At the time i was working with PHP and Javascript with MySQL to build websites, im not going to lie, back then, JavaScript was not my friend. Actually I think Javascript had many friends around that time. Now I'm in love with it as a language, but we'll get to that. So at this time i was getting the hang of things, FINALLY i had understood some form of programming syntax, and just like speaking language they all go hand-in-hand. But just like everything else without the right guidance or path, you will never be able to comprehend how to master your craft. Some time goes by and I still haven't progress into any greater than where I was at. Then one day i get news the shop will be moving and I was going to be outta work for some time. So, I decided to take advantage of the time to really get into programming. I've always liked working with the C# language from my time programming games on Unity Game Engine. The Framework I chose, .Net ... ok so at first it was a daunting task to grasp, but next thing you know im build windows apps. I was getting pretty decent with understanding the language as cramming information into my head seemed to work well as a learning method. 
+
+So one day I just happened to be looking through social media and I came across an Ad for a school that said '$0 up front pay nothing unless you get a $50k+ job'... Ummmm Whats the catch... so I clicked it, I usually don't, but something told me to, like I was destined for it, and at the point...
+
+## My Life Would Change Forever
+
+# LambdaSchool
+
+I didn't know what to expect, but something was driving me to press that submit button on the application and hope for the best.. So I did, few days later I get the email ive been waiting for, i pulled down the notification bar just to peek and the few words i did see were 
+
+## You are Tentatively Accepted!
+
+My heart dropped, with 5% acceptance rate I was accepted, But that was only the beginning as I fully open the email, what I have received was a CATCH, the only one i've ever experience with LambdaSchool throughout the entire program. What's the Catch? You must first be able to complete their pre-course work. I began to worry, am i even capable of this? After getting node and git setup to pull the repos for the pre-course work, I was on my way. First section I flew through as i had previous experience working with the material being presented. Second Section, Third Section Complete, Fourth Section, I've hit a snag. I Had no idea how to solve these problems! Now what? Determined to finish what i've started, I began researching how to solve issues I was having. I didn't want to cheat myself so I researched the patterns to the problem and why it was solved the way it was. One problem after a next, the green checks lighting up Mocha inside the terminal. I'm doing it, I'm learning how to learn. As the last check crossed my screen, the anticipation grew big, even-though I still had a week too finished, i needed it done right then and there, I enjoyed solving the problems, running into more problems only to come out stronger fascinated me. This is my passion,
+
+### This is where I Belong.
+
+It was different than anything i've ever been apart of. I felt as if I was one with the community I was with even-tough they were across the united states. As quickly as the week went by so did the material, It was like you handed somebody a manual to build a car, a week later you hand them a manual to build a plane, at this point they haven't even came close to understand how to build a car and now you want to throw a plane on top of it, now a week later they get a manual on how to build a spaceship. They've had it, They're done, there is no way for them to understand and remember all of that. But That would be looking at it the wrong way. The question isn't how difficult the spaceship is, but understand how easy the car was.
+There were times I questioned if this was really for me, felt as if I wasn't smart enough for this career. I wasn't having it, i was not going to cross paths and make through so many obstacles to fail by one. That was the moment. I had my **AH HA!!** moment and everything just **CLICKED** things that were so hard to grasp are now child's play. I was coding 10 - 15 hours a day, some days just blended from lack of slept from grinding it to as far as you can. Even now i haven't slept from coding all night. I'm in loce, I have reach part 1 to my goal i have learned my craft, and now I have the ability  
+
+##  To Teach myself to master my craft!
+
+I went through the up rises and the down falls to get where I am today.
+
+Programming is like Life, Sometime you have to break it, to understand, in order to make it completely whole.
+
+Finishing that program was one of my most personal accomplishments, I feel as if the knowledge i've obtained was stolen by my own hands. Day 342 with $0 invested, that can change the world, for man and for tech.  
