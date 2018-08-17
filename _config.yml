@@ -9,7 +9,7 @@ name: Brandon Fizer
 description: Software Engineer From Fayetteville, NC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://media.licdn.com/dms/image/C4E03AQHqvCy4fluRaw/profile-displayphoto-shrink_200_200/0?e=1539820800&v=beta&t=PvFmwXZUEPTZPvm15QvcPAuydQSYSdrSUMkj3lqphH0
+avatar:http://www.brandonfizer.com/images/Brandon.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar:https://media.licdn.com/dms/image/C4E03AQHqvCy4fluRaw/profile-displayphot
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: Brandon.M.Fizer@gmail.com
   facebook:
   flickr:
   github: track7dev
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.BrandonFizer.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
