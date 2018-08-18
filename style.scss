@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $blue;
+  color: $darkGray;
 }
 
 .container {
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: white;
+    color: inherit;
   }
 }
 
@@ -141,9 +141,6 @@ img {
 .clearfix:after {
     clear: both;
 }
-.entry {
-  color:white;
-}
 
 /*********************/
 /* LAYOUT / SECTIONS */
@@ -155,8 +152,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: $darkBlue;
-  color: white;
 }
 
 .masthead {
