@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $blue;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: white;
 }
 
 .container {
@@ -46,17 +46,20 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: white;
   a {
-    color: inherit;
+    color: white;
   }
 }
 
 h2 {
   font-size: 24px;
+  color: rgb(59, 96, 172);
 }
 
 h3 {
   font-size: 20px;
+  color: rgb(59, 96, 172);
 }
 
 h4 {
@@ -64,16 +67,20 @@ h4 {
   color: $gray;
 }
 
+h6 {
+  color:rgb(59, 96, 172);
+}
+
 p {
   margin: 15px 0;
 }
 
 a {
-  color: $blue;
+  color: white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkBlue;
   }
 }
 
@@ -100,6 +107,7 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
+  color: rgb(59, 96, 172);
 }
 
 strong, b {
@@ -117,7 +125,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: rgb(59, 96, 172);
 }
 
 // Specify the color of the selection
@@ -152,11 +160,13 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: $darkBlue;
+  border-bottom: 1px solid $lightGray;
+
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -177,6 +187,8 @@ img {
 
   img {
     border-radius: 5px;
+  border: 1px solid white;
+
   }
 }
 
@@ -202,7 +214,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: rgb(206, 206, 206);
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +237,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -275,7 +287,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkBlue;
 }
 
 footer {
