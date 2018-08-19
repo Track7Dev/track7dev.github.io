@@ -10,7 +10,8 @@ permalink: /about/
 
 
 
-| Modern JavaScript | API & Database Development | Front-End Development & Design | Reactjs & React Native Frameworks | Redux Management | Agile & Test Driven Development| Network Security Practices|
+| Modern JavaScript | API & Database Development | Front-End Development & Design | Reactjs & React Native Frameworks |
+| Redux Management | Agile & Test Driven Development| Network Security Practices|
 
 ### Contact me
 
