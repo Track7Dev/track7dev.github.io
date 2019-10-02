@@ -9,7 +9,7 @@ name: Brandon Fizer
 description: Software Engineer From Fayetteville, NC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.brandonfizer.com/images/Brandon.png
+avatar: http://www.brandonfizer.com/images/brandon.jpg
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: track7dev
-  instagram:
+  instagram: _fizer.js
   linkedin: brandon-fizer
   pinterest:
   rss: # just type anything here for a working RSS icon
